@@ -1,4 +1,4 @@
-1window.onload=function(){
+window.onload=function(){
 	var textt=document.getElementById('text');
 	var fabu=document.getElementById('fabu');
 	textt.onfocus=function(){
