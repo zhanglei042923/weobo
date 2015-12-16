@@ -1,0 +1,143 @@
+body{
+	margin:0;
+	background-image: url(../images/ss.png);
+	background-repeat: repeat-x;
+    background-position: center 0;
+    background-color: #b4daf0;
+}
+.nav{
+	width: 1349px;
+	height: 47px;
+	border:1px solid black;
+	position: fixed;
+	top:0;
+	left:0;
+	background-color: white;
+}
+.da{
+	width: 800px;
+	height:250px;
+	border:1px solid #B4AEAE;
+	margin: 50px auto;
+	background-color: white;
+	border-radius: 3px;
+}
+.sence{
+	width: 200px;
+	height: 25px;
+	position: absolute;
+	top:65px;
+	left: 340px;
+	color:#1b7fb6;
+	font-family: "方正胖头鱼简体" ;
+}
+#text{
+    outline: none;
+	width: 700px;
+	height: 140px;
+	position: absolute;
+	top:90px;
+	left:335px;
+	color: #C4C4C4;
+	border-style:none;
+	box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.15) inset;
+
+}
+.shuru{
+	width: 500px;
+	height: 25px;
+	position: absolute;
+	top:55px;
+	left: 535px;
+	color: #C4C4C4;
+	text-align: right;
+	line-height: 25px;
+}
+#shuzi{
+	color:black;
+	font-size: 25px;
+	font-family: "Juniper-Normal"
+}
+.hui{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top:30px;
+	left:170px;
+	background-image: url(../images/icon02.png);
+}
+.hui1{
+    width: 20px;
+	height: 20px;
+	position: absolute;
+	top:30px;
+	left:190px;
+	background-image: url(../images/icon06.jpg);
+}
+#fabu{
+    background-color:#ffc09f; 
+	width: 80px;
+	height: 40px;
+	position: absolute;
+	top:250px;
+	left:957px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 10px;
+	color:#fff;
+}
+.wenzhang{
+	width: 800px;
+	height: 800px;
+	margin: 20px auto;
+}
+.xiao{
+	width: 800px;
+	height: 200px;
+	margin-top:10px;
+	background-color: white;
+	border-radius: 3px;
+	position: relative;
+
+}
+.touxiang{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-image: url(../images/aa.jpg);
+	position: absolute;
+	top:20px;
+	left: 25px;
+}
+.mingzi{
+	width: 140px;
+	height: 20px;
+	position: absolute;
+	top:32px;
+	left: 90px;
+	font-weight: bold;
+}
+.wenzi{
+	width: 700px;
+	height: 100px;
+	position: absolute;
+	top:60px;
+	left: 77px;
+	color: #333;
+	font-size: 14px;
+}
+.zan{
+	width: 50px;
+	height: 20px;
+	border:1px solid #C4C4C4;
+	position: absolute;
+	top:170px;
+	left:700px;
+	border-radius: 2px;
+	text-align: center;
+	line-height: 20px;
+}
+.zan:hover{
+	color:#ff8140;
+	cursor: pointer;
+}
